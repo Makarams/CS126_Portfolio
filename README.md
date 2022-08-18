@@ -66,3 +66,5 @@ Also, not to forget that the purpose of this C++ program is to make the search f
 Of course, not everything is perfect, this program also has one, a minor one in fact but a problem nonetheless, even though the searching, the adding, the editing, and the deleting option worked perfectly, their bond to be error and one of those is that by inputting barcode id that does not exist in the database, the user will get an error message such as putting 8 when choosing one of the seven options or putting random barcode id when searching for a product’s information.
 
 That’s aside apart from the program cannot make guesses on a similar barcode id that the user wants to put in but accidentally put the wrong one, it also is built on Visual Studio Code so the UI is not pretty enough for regular people, it is chunky and is not interesting to look at, confusing in fact that if a person is not familiar with Visual Studio Code, they would be highly confused.
+
+That's it for introduction.
