@@ -1,11 +1,14 @@
 # CS126_Portfolio
 This is my first year CS portfolio.
+
 I. INTRODUCTION
+
 This portfolio is about the implementation of the various new things that we have learned in semester 2 such as the use of an array, STL concept, file manipulation, classes, and objects to make the “Searching Function”.
 This so-called searching function is going to operate by inputting a barcode id of a specific product and getting a display of information about that specific product.
 Alongside that we also have file maintenance or menu for short which includes search, add, edit, delete, view, check, and bin which will be explained in depth as we go on. 
 
 II. PROJECT DESCRIPTION 
+
 As stated, this is a project that we created using C++ coding to make a function for searching information so in this case, we have decided to act as if the searching is created for a supermarket to store information so this way by inputting the barcode id, we can get all the product’s information and price with the shown information being name, brand, category, price, country of manufacture and expiration date.
 Not only that, there are 7 options to choose from the moment the code is run such as:
 Search Product Information!
